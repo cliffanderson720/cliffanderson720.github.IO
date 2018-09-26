@@ -1,2 +1,2 @@
 # Clifton-Anderson.Github.IO
-Academic website
+These are my changes to the website thing
